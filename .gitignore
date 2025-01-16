@@ -1,3 +1,4 @@
-/dataset/
-/feature/
+/dataset/*
+/feature/*
 /top5_slides/
+/pkgs/

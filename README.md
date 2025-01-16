@@ -1,5 +1,7 @@
 # 阿里移动推荐算法挑战赛
 
+<https://tianchi.aliyun.com/competition/entrance/532043/>
+
 ## 数据分析
 
 ### 商品数据
